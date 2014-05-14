@@ -1,0 +1,19 @@
+# humanstxt.org/
+# TEAM
+
+  Developer: Dima Spirit
+  Twitter: @dima4people
+  Location: Kharkov, Ukraine.
+
+# THANKS
+  Designer, writer: Chris Coyier
+  Site: http://css-tricks.com/
+  Twitter: @chriscoyier
+
+# SITE
+
+  Last update: YYYY/MM/DD
+  Language: English
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery, etc
+  Software: Software used for the development
